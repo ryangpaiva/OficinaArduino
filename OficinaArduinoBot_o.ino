@@ -1,15 +1,5 @@
 // Oficina de Introdução a Arduino
 // Ligar e Desligar LED com Botão + Monitor Serial
-/*    Lembretes:
- *  Qualquer dúvida, nos chame! :)
- 
- *  Se estiver tendo problemas ao escrever o código, vá ao CodePile ;)
- 
- *  Duas barras (//) servem para comentar, são ignorados pelo Arduino (não precisa escrever oq estiver nelas)
- 
- *  Cuidado ao conectar as coisas, não queremos fritar Arduino hoje rsrs 
- 
-*/
 
 #define pinoLED 13                  // Definir LED como porta 13 (o compilador irá substituir todas as menções de "pinoLED" por "13") (TODAS ETAPAS)
 //#define pinoLED2 11               // Definir LED2 como porta 11 (o compilador irá substituir todas as menções de "pinoLED2" por "11") (Competição)
