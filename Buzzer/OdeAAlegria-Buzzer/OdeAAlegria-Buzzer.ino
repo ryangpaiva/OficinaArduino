@@ -1,5 +1,5 @@
 // Oficina de Introdução a Arduino
-// Tocar a Marcha Imperial de Star Wars com o buzzer
+// Tocar Ode a Alegria de Beethoven com o buzzer
 /*    Lembretes:
  *  Qualquer dúvida, nos chame! :)
  
